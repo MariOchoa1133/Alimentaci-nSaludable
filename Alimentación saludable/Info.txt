@@ -1,0 +1,76 @@
+<body bgcolor="#ABEBC6">
+
+<center> <b><u><h2>Alimentación Saludable</H1></u></h2></b> </center><p></p>
+
+<center><H3><b>Generalizando, se puede decir que la alimentación saludable es aquella que proporciona
+los nutrientes que el cuerpo necesita para mantener el buen funcionamiento del organismo,
+conservar o restablecer la salud, minimizar el riesgo de enfermedades, garantizar la reproducción,
+gestación, lactancia, desarrollo y crecimiento adecuado. Para lograrlo, es necesario el consumo 
+diario de frutas, verduras, cereales integrales, legumbres, leche, carnes, aves y pescado y aceite
+vegetal en cantidades adecuadas y variadas. Si lo hacemos así, estamos diciendo que tenemos una 
+alimentación saludable.</b></p> </H3></center>
+
+<p></p>
+<center><img src="saludable.jpg"><img src="saludable2.jpg"></center>
+<p></p>
+<center><img src="piramide.jpg" width="420" height="300"></center><b> <h4>La pirámide alimenticia, pirámide alimentaria, o también llamada pirámide nutricional,
+es una referencia gráfica de la cantidad de los diferentes grupos de alimentos recomendados para consumir diariamente por las autoridades 
+sanitarias para mantenernos saludables. Es una herramienta muy útil a la hora de seguir una dieta equilibrada. Nos permite distinguir fácilmente cuales
+son los alimentos que debemos consumir en mayor cantidad, los que componen la base de nuestra alimentación y los que deben estar presentes
+solo de forma esporádica, o incluso opcional, como los dulces, la bollería, los refrescos….</b></h4>
+<p></p>
+<p></p>
+<center><a><h4>Video informativo: </a><a href="https://www.youtube.com/watch?v=8XUFprj5XXo"> Como,luego existo: Alimentación saludable</h4></a></center>
+<center><a><h4>Pagina web proporcionada por el gobierno: </a><a href="https://www.argentina.gob.ar/salud/alimentacion-saludable"> Alimentacions saludable</h4></a></center>
+<p></p>
+
+<u><h3><b>Beneficios de comer sano...</b></p></h3></u>
+
+<h4>- Proteges a tu cuerpo de la desnutrición.</p>
+  - Previenes el desarrollo de enfermedades no transmisibles.</p>
+- Reduces los factores de riesgo para tu salud.</p>
+- Previenes el sobrepeso y la obesidad.</p></h4>
+<p></p>
+
+<u><h3><b>¿Qué diferencia hay entre alimentación y nutrición?</b></p></h3></u>
+
+<h4>La alimentación, es un acto consciente, voluntario, educable y social (influido por factores económicos, culturales, etc.), por el cual proporcionamos a nuestro cuerpo los alimentos "como cuando quiero", "puedo comer mucho o poco". En definitiva, ¡de nosotros depende modificarla o no.
+La nutrición, es un acto involuntario, (no modificable voluntariamente), inconsciente, que comprende los procesos fisiológicos de digestión, absorción, transporte, utilización y eliminación de los nutrientes.
+Los nutrientes son los componentes de los alimentos que necesitamos para desarrollar nuestras funciones vitales y, en definitiva para vivir. No los ingerimos directamente, ya que forman parte de los alimentos. Estos nutrientes son:</p>
+- Proteinas</p>
+- Hidratos de carbono o glúcidos</p>
+- Lípidos o grasas</p>
+- Vitaminas</p>
+- Minerales</p>
+Los alimentos también contienen agua y fibra, pero al no aportar calorías no se les suele clasificar como nutrientes.
+Si queremos tener y mantener una buena salud, debemos conocer el contenido de nutrientes de los alimentos, para pensar y analizar si nuestra forma habitual de alimentarnos es la correcta y para, si no lo es, modificar nuestra dieta.
+No podemos, voluntariamente, influir en los procesos de la nutrición, pero sí en nuestra alimentación.
+Mejorando nuestros hábitos alimentarios mejoramos nuestro estado nutricional y nuestra salud.</p></h4>
+<p></p>
+
+<center><img width="420" height="350" src="grafica.png"></center>
+<b> <h4><center>Esta gráfica hace referencia al consumo de diferentes grupos de alimentos que deberías consumir distribuidos a lo largo del día. Fue diseñada especialmente para nuestro país. Es una guía para que realices de forma variada y armónica una alimentación completa.
+La gráfica incluye un grupo de consumo opcional (6to. Grupo de color rojo), que no aportan nutrientes esenciales y no deberías incorporar en tu alimentación diaria: productos ultraprocesados con exceso de azúcares, grasas y/o sal, nocivos para la salud a todas las edades.</center></h4>
+<p></p>
+<h3><u><b>Te compartimos 10 recomendaciones para una alimentación saludable : </b></p></u></h3>
+- Incorporá a diario alimentos de todos los grupos y realizá al menos 30 minutos de actividad física.</p>
+- Tomá a diario 8 vasos de agua segura.</p>
+- Consumí a diario 5 porciones de frutas y verduras en variedad de tipos y colores.</p>
+- Limitá el consumo de bebidas azucaradas y de alimentos con elevado contenido de grasas, azúcar y sal.</p>
+- Consumí diariamente leche, yogur o queso, preferentemente descremados.</p>
+- Reducí el uso de sal y el consumo de alimentos con alto contenido de sodio.</p>
+- Al consumir carnes quitale la grasa visible, aumentá el consumo de pescado e incluí huevo.</p>
+- Consumí legumbres, cereales preferentemente integrales, papa, batata, choclo o mandioca.</p>
+- Consumí aceite crudo como condimento, frutas secas o semillas.</p>
+- Si vas a consumir bebidas alcohólicas, hacelo de forma responsable. Los niños, adolescentes y mujeres embarazadas no deben consumirlas. Evitalos siempre al conducir.</p>
+<p></p>
+<h3><u><b>¿Cómo llevar una alimentación saludable?</b></p></u></h3>
+
+<iframe width="420" height="300" src="alimentacion.mp4" iframe> </iframe>
+<hr>
+<u><h3><b>Datos de creación</b></p></h3></u>
+- Nombre: Ochoa Maricel </p>
+- Curso 6to C </p>
+
+</body>
+<html>
